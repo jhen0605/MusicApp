@@ -13,6 +13,21 @@
 		A76282152638742200887422 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A76282132638742200887422 /* Main.storyboard */; };
 		A76282172638742300887422 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A76282162638742300887422 /* Assets.xcassets */; };
 		A762821A2638742300887422 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A76282182638742300887422 /* LaunchScreen.storyboard */; };
+		A77CAA302639DB62002738F0 /* 清松手寫體2jas.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA2F2639DB62002738F0 /* 清松手寫體2jas.ttf */; };
+		A77CAA802639F24F002738F0 /* SongList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77CAA7F2639F24F002738F0 /* SongList.swift */; };
+		A77CAA8E2639F7F5002738F0 /* High On Lif.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA812639F7F3002738F0 /* High On Lif.mp3 */; };
+		A77CAA8F2639F7F5002738F0 /* Meant To Be.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA822639F7F4002738F0 /* Meant To Be.mp3 */; };
+		A77CAA902639F7F5002738F0 /* In The Name Of Love.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA832639F7F4002738F0 /* In The Name Of Love.mp3 */; };
+		A77CAA912639F7F5002738F0 /* Travesuras(Remix).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA842639F7F4002738F0 /* Travesuras(Remix).mp3 */; };
+		A77CAA922639F7F5002738F0 /* So Far Away.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA852639F7F4002738F0 /* So Far Away.mp3 */; };
+		A77CAA932639F7F5002738F0 /* Scared To Be Lonely.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA862639F7F4002738F0 /* Scared To Be Lonely.mp3 */; };
+		A77CAA942639F7F5002738F0 /* Used To Love.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA872639F7F4002738F0 /* Used To Love.mp3 */; };
+		A77CAA952639F7F5002738F0 /* Beautiful Mistakes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA882639F7F4002738F0 /* Beautiful Mistakes.mp3 */; };
+		A77CAA962639F7F5002738F0 /* No Sleep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA892639F7F4002738F0 /* No Sleep.mp3 */; };
+		A77CAA972639F7F5002738F0 /* There For You.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA8A2639F7F5002738F0 /* There For You.mp3 */; };
+		A77CAA982639F7F5002738F0 /* Dont Let Me Down (Illenium Remix).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA8B2639F7F5002738F0 /* Dont Let Me Down (Illenium Remix).mp3 */; };
+		A77CAA992639F7F5002738F0 /* Young.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA8C2639F7F5002738F0 /* Young.mp3 */; };
+		A77CAA9A2639F7F5002738F0 /* Way Back Home.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77CAA8D2639F7F5002738F0 /* Way Back Home.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +39,21 @@
 		A76282162638742300887422 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A76282192638742300887422 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A762821B2638742300887422 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A77CAA2F2639DB62002738F0 /* 清松手寫體2jas.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "清松手寫體2jas.ttf"; sourceTree = "<group>"; };
+		A77CAA7F2639F24F002738F0 /* SongList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongList.swift; sourceTree = "<group>"; };
+		A77CAA812639F7F3002738F0 /* High On Lif.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "High On Lif.mp3"; sourceTree = "<group>"; };
+		A77CAA822639F7F4002738F0 /* Meant To Be.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Meant To Be.mp3"; sourceTree = "<group>"; };
+		A77CAA832639F7F4002738F0 /* In The Name Of Love.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "In The Name Of Love.mp3"; sourceTree = "<group>"; };
+		A77CAA842639F7F4002738F0 /* Travesuras(Remix).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Travesuras(Remix).mp3"; sourceTree = "<group>"; };
+		A77CAA852639F7F4002738F0 /* So Far Away.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "So Far Away.mp3"; sourceTree = "<group>"; };
+		A77CAA862639F7F4002738F0 /* Scared To Be Lonely.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Scared To Be Lonely.mp3"; sourceTree = "<group>"; };
+		A77CAA872639F7F4002738F0 /* Used To Love.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Used To Love.mp3"; sourceTree = "<group>"; };
+		A77CAA882639F7F4002738F0 /* Beautiful Mistakes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Beautiful Mistakes.mp3"; sourceTree = "<group>"; };
+		A77CAA892639F7F4002738F0 /* No Sleep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "No Sleep.mp3"; sourceTree = "<group>"; };
+		A77CAA8A2639F7F5002738F0 /* There For You.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "There For You.mp3"; sourceTree = "<group>"; };
+		A77CAA8B2639F7F5002738F0 /* Dont Let Me Down (Illenium Remix).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dont Let Me Down (Illenium Remix).mp3"; sourceTree = "<group>"; };
+		A77CAA8C2639F7F5002738F0 /* Young.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Young.mp3; sourceTree = "<group>"; };
+		A77CAA8D2639F7F5002738F0 /* Way Back Home.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Way Back Home.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +70,7 @@
 		A76282012638742200887422 = {
 			isa = PBXGroup;
 			children = (
+				A77CAA7F2639F24F002738F0 /* SongList.swift */,
 				A762820C2638742200887422 /* Music App */,
 				A762820B2638742200887422 /* Products */,
 			);
@@ -56,6 +87,20 @@
 		A762820C2638742200887422 /* Music App */ = {
 			isa = PBXGroup;
 			children = (
+				A77CAA882639F7F4002738F0 /* Beautiful Mistakes.mp3 */,
+				A77CAA8B2639F7F5002738F0 /* Dont Let Me Down (Illenium Remix).mp3 */,
+				A77CAA812639F7F3002738F0 /* High On Lif.mp3 */,
+				A77CAA832639F7F4002738F0 /* In The Name Of Love.mp3 */,
+				A77CAA822639F7F4002738F0 /* Meant To Be.mp3 */,
+				A77CAA892639F7F4002738F0 /* No Sleep.mp3 */,
+				A77CAA862639F7F4002738F0 /* Scared To Be Lonely.mp3 */,
+				A77CAA852639F7F4002738F0 /* So Far Away.mp3 */,
+				A77CAA8A2639F7F5002738F0 /* There For You.mp3 */,
+				A77CAA842639F7F4002738F0 /* Travesuras(Remix).mp3 */,
+				A77CAA872639F7F4002738F0 /* Used To Love.mp3 */,
+				A77CAA8D2639F7F5002738F0 /* Way Back Home.mp3 */,
+				A77CAA8C2639F7F5002738F0 /* Young.mp3 */,
+				A77CAA2F2639DB62002738F0 /* 清松手寫體2jas.ttf */,
 				A762820D2638742200887422 /* AppDelegate.swift */,
 				A762820F2638742200887422 /* SceneDelegate.swift */,
 				A76282112638742200887422 /* ViewController.swift */,
@@ -124,9 +169,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A77CAA932639F7F5002738F0 /* Scared To Be Lonely.mp3 in Resources */,
 				A762821A2638742300887422 /* LaunchScreen.storyboard in Resources */,
+				A77CAA912639F7F5002738F0 /* Travesuras(Remix).mp3 in Resources */,
+				A77CAA9A2639F7F5002738F0 /* Way Back Home.mp3 in Resources */,
 				A76282172638742300887422 /* Assets.xcassets in Resources */,
+				A77CAA302639DB62002738F0 /* 清松手寫體2jas.ttf in Resources */,
+				A77CAA942639F7F5002738F0 /* Used To Love.mp3 in Resources */,
+				A77CAA952639F7F5002738F0 /* Beautiful Mistakes.mp3 in Resources */,
+				A77CAA902639F7F5002738F0 /* In The Name Of Love.mp3 in Resources */,
 				A76282152638742200887422 /* Main.storyboard in Resources */,
+				A77CAA992639F7F5002738F0 /* Young.mp3 in Resources */,
+				A77CAA972639F7F5002738F0 /* There For You.mp3 in Resources */,
+				A77CAA922639F7F5002738F0 /* So Far Away.mp3 in Resources */,
+				A77CAA982639F7F5002738F0 /* Dont Let Me Down (Illenium Remix).mp3 in Resources */,
+				A77CAA962639F7F5002738F0 /* No Sleep.mp3 in Resources */,
+				A77CAA8F2639F7F5002738F0 /* Meant To Be.mp3 in Resources */,
+				A77CAA8E2639F7F5002738F0 /* High On Lif.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +196,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A77CAA802639F24F002738F0 /* SongList.swift in Sources */,
 				A76282122638742200887422 /* ViewController.swift in Sources */,
 				A762820E2638742200887422 /* AppDelegate.swift in Sources */,
 				A76282102638742200887422 /* SceneDelegate.swift in Sources */,
